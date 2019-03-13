@@ -1,1 +1,2 @@
 This is first file after creating this child1 branch.
+Now performed git commit -a for this file
